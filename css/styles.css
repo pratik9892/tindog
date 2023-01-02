@@ -188,5 +188,9 @@ body {
   .title-img{
     padding-left: 0px;
   }
+  
+   #footer #cta #features .carousel-item{
+    padding: 2% 4%;
+  }
   }
 
